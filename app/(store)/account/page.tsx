@@ -6,8 +6,6 @@ import { Badge } from "@/components/ui/badge";
 export default async function AccountBookingsPage() {
   const { bookings } = await listCustomerBookings();
 
-  console.log("bookings", bookings);
-
   if (!bookings.length) {
     return (
       <Card>
