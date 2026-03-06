@@ -1,5 +1,7 @@
 # Medusa Gear Rental Starter
 
+![Medusa Gear Rental Starter storefront homepage](./public/storefront-homepage.png)
+
 A Next.js storefront for gear and equipment rentals, built on top of a Medusa backend that uses the **Medusa Booking System Plugin**.
 
 This README provides **quick installation and setup instructions** so you can have both the Medusa backend (with booking) and this starter running locally.
